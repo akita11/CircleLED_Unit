@@ -9,7 +9,7 @@
 
 ## 使い方（接続方法）
 
-<img src="https://github.com/akita11/CircleLED_Unit/blob/main/CircleLED-back.jpg" width="240px">
+<img src="https://github.com/akita11/CircleLED_Unit/blob/main/CircleLED_Unit-back.jpg" width="240px">
 
 "IN"と表記されたGroveコネクタのいずれかに、マイコン(M5Stack等)からのGroveケーブルを接続します。さらに数珠つなぎで別のLEDテープや本ユニットを接続する場合は、"OUT"と表記されたGroveポートを使用してください。
 
